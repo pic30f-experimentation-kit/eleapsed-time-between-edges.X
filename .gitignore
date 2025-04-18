@@ -1,0 +1,12 @@
+dist/
+build/
+debug/
+.generated_files/
+nbproject/*.mk
+nbproject/*.bash
+nbproject/*.properties
+nbproject/private
+*.workspace
+*.pdsbak
+.DS_Store
+.~lock*
